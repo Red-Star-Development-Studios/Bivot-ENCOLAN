@@ -1,0 +1,41 @@
+Document made for Bivot 0.2
+Newer Versions Have Updated Info
+File Size (Uncompressed): ???
+THIS IS NOT A FULL RELEASE VERSION. THIS IS A BETA VERSION.
+Bivot is a simple encoder. It's pretty easy:
+
+---------------------------------------------------------------------------------------------
+TO ENCODE A MESSAGE
+1) Select your level of encoding
+Enter either "A.1", "B.1", or "C.1". "C.1" is the highest level as of yet.
+
+2) Enter your message
+Just any message within the charachter limit of N/A.
+
+3) Wait, and Done!
+There you go!
+
+
+TO DECODE A MESSAGE
+1) In the begenning tab, select the "DECODE" option
+
+2) Enter your message
+
+3) Wait, and Done!
+There you go, with a decoded message.
+---------------------------------------------------------------------------------------------
+How Bivot works:
+
+Depending on the encoding level, it runs your message through several math programs, and
+outputs your message in 'Variables'. These can be numbers, letters, or signs.
+Fun Fact: Bivot encodes in versions of 'ENCOLAN', an encoding language.
+
+It also embeds a secret variable in the message that tells the decoder how to decode it.
+The reason it's security is high is because it passes through multiple math problems.
+It'll turn them into numbers, then do several calculations, and then spit it out.
+---------------------------------------------------------------------------------------------
+Bivot's Roadmap:
+
+Bivot Version 0.2 (Release Date N/A):
+	Added 'bivot_python_main.py', 'bivot_python_func.py', 'bivot_info.txt'
+	Added 'bivot_license.txt'
