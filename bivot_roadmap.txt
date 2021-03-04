@@ -1,0 +1,14 @@
+Bivot's Roadmap:
+
+***Bivot Version v0.2-beta***(Out of Date)(Release Date 3/3/2021):
+	Added 'bivot_python_main.py', 'bivot_python_func.py', 'bivot_info.txt'
+	Added 'bivot_license.txt'
+	
+***Bivot Version v0.2.1-beta***(Out of Date)(Release Date 3/3/2021)
+	Fixed issue with file size 
+	Fized 'bivot_info.txt' in general
+	
+Bivot Version v0.7-beta (Release Date ??/??/2021)
+	Est. File Size (Uncompressed): [file_size]
+	Added 'bivot_roadmap.txt'
+	Edited all files

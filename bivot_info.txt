@@ -1,6 +1,8 @@
-Document made for Bivot 0.2
+***ALERT--SOME VERSIONS ARE NOW OUT OF DATE. PLEASE DOWNLOAD NEW VERSIONS.***
+
+Document made for Bivot 0.7
 Newer Versions Have Updated Info
-File Size (Uncompressed): ???
+Est. File Size (Uncompressed): [file_size]
 THIS IS NOT A FULL RELEASE VERSION. THIS IS A BETA VERSION.
 Bivot is a simple encoder. It's pretty easy:
 
@@ -34,8 +36,3 @@ It also embeds a secret variable in the message that tells the decoder how to de
 The reason it's security is high is because it passes through multiple math problems.
 It'll turn them into numbers, then do several calculations, and then spit it out.
 ---------------------------------------------------------------------------------------------
-Bivot's Roadmap:
-
-Bivot Version 0.2 (Release Date N/A):
-	Added 'bivot_python_main.py', 'bivot_python_func.py', 'bivot_info.txt'
-	Added 'bivot_license.txt'
